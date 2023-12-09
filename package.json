@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.16.0"
+  },
+  "name": "pfinalautomatizacion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "prueba": "mocha ./prueba/*.spec.js --no-timeouts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
